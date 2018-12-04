@@ -1,4 +1,4 @@
-[카페 오픈 위치](heocube.godohosting.com/index.html)
+(heocube.godohosting.com/index.html)
 
 ### Team
 * 기창공 수_오전_2조

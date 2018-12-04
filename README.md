@@ -1,4 +1,4 @@
-(heocube.godohosting.com/index.html)
+[위치!](http://heocube.godohosting.com/index.html){:target="_blank"}
 
 ### Team
 * 기창공 수_오전_2조

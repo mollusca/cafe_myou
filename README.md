@@ -1,11 +1,11 @@
-[# http://heocube.godohosting.com/index.html](http://heocube.godohosting.com/index.html)
+﻿[# http://heocube.godohosting.com/index.html](http://heocube.godohosting.com/index.html)
 
 ### Team
 * 기창공 수_오전_2조
 
 > ### Repository Info
 >+ Processing - 프로세싱 작품 코드
->+ 자료 - 누적OPPM, 예산표, Burndown Chart, 홍보 영상, 
+>+ 자료 - 누적OPPM, 예산표, Burndown Chart, 홍보 영상, 회의록
 
 ## 팀 정보
 * 팀명 : __나비효과__
